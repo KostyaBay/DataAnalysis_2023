@@ -1,4 +1,4 @@
-# Data Analysis 2023, Igor Sikorsky Kyiv Polytechnic Institute
+## Data Analysis 2023, Igor Sikorsky Kyiv Polytechnic Institute
 
 **Lab 1:** Базові алгоритми класифікації з використанням бібліотеки Scikit-learn.
 
